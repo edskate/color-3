@@ -1,0 +1,16 @@
+body{
+    width: 200px;
+    height: 300px;
+    margin: 17px;
+    color: blue;
+}
+div{
+    box-shadow: inset 2px 3px 4px ;
+    text-align: center;
+    margin: 7px;
+    padding: 17px;
+}
+.box1{
+    background: local;
+    background-color: aquamarine;
+}
